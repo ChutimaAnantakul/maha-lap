@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChutimaAnantakul/maha-lap/issues"
   },
-  "homepage": "https://github.com/ChutimaAnantakul/maha-lap#readme"
+  "homepage": "https://github.com/ChutimaAnantakul/maha-lap#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
